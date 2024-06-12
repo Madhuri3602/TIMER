@@ -1,0 +1,49 @@
+*{
+      background-color: rgba(143, 218, 231, 0.858);
+     
+       font-size: large;
+        color:black;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        font-style: italic;
+        padding: 30px;
+        margin: 30px;
+        align-items: center;
+        margin-right: 30px;
+        text-align: center;
+        font-weight: bolder;
+        text-size-adjust:large;
+        transition: transform 0.5s ease, opacity 0.5s ease;
+}
+
+h1{
+    font-size: larger;
+    font-weight: bold;
+    color:black;
+}
+button{
+    background-color: white;
+}
+
+
+
+
+body{
+  
+    justify-content:center;
+    
+
+
+}
+
+#timer{
+    font-size: large;
+    background-color:rgb(79, 166, 171);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+ }
+#timer :hover{
+    background-color:rgb(168, 159, 23);
+}
+
